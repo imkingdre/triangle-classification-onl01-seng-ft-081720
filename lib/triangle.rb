@@ -7,7 +7,7 @@ class Triangle
     @scalene = scalene
   end
   
-  def kind(triangle)
+  def kind
     raise TriangleError
     
     
