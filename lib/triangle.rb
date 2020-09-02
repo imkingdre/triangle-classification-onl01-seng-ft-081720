@@ -18,4 +18,3 @@ class Triangle
       "Triangle is not valid"
   end
   
-end
